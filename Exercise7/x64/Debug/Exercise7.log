@@ -1,0 +1,4 @@
+﻿  Exercise7.cpp
+C:\Users\josef\OneDrive - Estudiantes ITCR\CENFOTEC\Ejercicios\Exercise7\Exercise7.cpp(31,33): warning C4101: 'e': unreferenced local variable
+C:\Users\josef\OneDrive - Estudiantes ITCR\CENFOTEC\Ejercicios\Exercise7\Exercise7.cpp(63): warning C4715: 'open_library': not all control paths return a value
+  Exercise7.vcxproj -> C:\Users\josef\OneDrive - Estudiantes ITCR\CENFOTEC\Ejercicios\Exercise7\x64\Debug\Exercise7.exe
